@@ -15,6 +15,7 @@
 # [Weapon Mechanics Cosmetics](https://github.com/WeaponMechanics/WeaponMechanicsCosmeticsWiki) 
   [![Spigot](https://img.shields.io/badge/-Spigot-orange?logo=data%3Aimage%2Fx-icon%3Bbase64%2CAAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAND%2FAOhGOgA%2F6OIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAAAABEAAAAzMQABEQAAARMzEBERARERETMxERAAAAARMzEAAAAAAAETMwAAAAAAABEwAAAAAAAAERAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAD%2F%2BQAA%2F%2FkAAP%2F5AAD%2F8AAA%2BDAAAPAgAAAAAAAAAAEAAAADAADwDwAA%2FB8AAPwfAAD8HwAA%2Fj8AAP4%2FAADwBwAA)](https://www.spigotmc.org/resources/104539/)
   [![Discord](https://img.shields.io/discord/306158221473742848.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ERVgpfg)
+  [![Download](https://img.shields.io/spiget/downloads/104539?label=downloads)](https://www.spigotmc.org/resources/104539/)
   [![Wiki](https://img.shields.io/badge/-wiki%20-blueviolet)](https://github.com/WeaponMechanics/WeaponMechanicsCosmeticsWiki/wiki)
 
 </div>
